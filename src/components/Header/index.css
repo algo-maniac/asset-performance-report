@@ -1,0 +1,8 @@
+.hover-dark{
+    background-color: #c2c2c2;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    &:hover {
+      background-color: rgb(76, 76, 76);
+    }
+}
